@@ -5,7 +5,7 @@
 
 # Donation
 
-Bitcoin: 1PJMCx9NNQRasQYaa4MMff9yyNFffhHgLu
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
 
 ## Table of Contents
 - [Installation](https://github.com/PokemonGoF/PokemonGo-Bot/blob/dev/docs/installation.md)
